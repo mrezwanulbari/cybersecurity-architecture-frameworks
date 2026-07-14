@@ -58,5 +58,6 @@ This framework is designed for:
 **Shakil Md. Rezwanul Bari**  
 Cybersecurity Architect | Cloud Security | Zero Trust | Detection Engineering  
 Website: shakilbari.com  
-LinkedIn: linkedin.com/in/shakilbari  
+LinkedIn: linkedin.com/in/rezwanulbari  
 Email: rezwanbari@gmail.com
+
